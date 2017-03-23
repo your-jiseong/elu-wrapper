@@ -1,6 +1,4 @@
-# elu-wrapper
-QAMEL - Korean Named Entity Disambiguator
-=====================================
+# QAMEL - Korean Named Entity Disambiguator
 
 Description
 -----
