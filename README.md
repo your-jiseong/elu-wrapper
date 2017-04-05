@@ -13,15 +13,15 @@ How to install
 Before executing the module, we need to install all of the dependencies.
 Execute the following command.
 
-...
+```
 sh dependency.sh
-...
+```
 
 To execute the module, run the service by the following command.
 
-...
+```
 python service.py
-...
+```
 
 AUTHOR(S)
 ---------
